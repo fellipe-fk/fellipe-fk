@@ -1,7 +1,11 @@
 ### Olá, Eu sou Fellipe 🖐️
 
-![Fellipe GitHub stats](https://github-readme-stats.vercel.app/api?username=fellipe-fk&show_icons=true&theme=radical)
-
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=fellipe-fk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipe-fk&layout=compact&langs_count=16&theme=radical"/>
+</div>
+<br>
 ## Tecnologias que estou estudando
 
 <div style="display: inline_block"><br/>
@@ -13,3 +17,4 @@
 </div><br/>
 
 Sou Apaixonado por tecnologia, e em busca de cada vez mais melhora :)
+![Snake animation](https://github.com/fellipe-fk/fellipe-fk/blob/output/github-contribution-grid-snake.svg)
